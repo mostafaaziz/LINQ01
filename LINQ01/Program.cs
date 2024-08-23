@@ -13,6 +13,7 @@ namespace LINQ01
         
         static void Main(string[] args)
         {
+
             #region Q1
 
             //var Result = ProductList.Where(P => P.UnitsInStock == 0);
